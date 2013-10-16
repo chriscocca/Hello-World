@@ -1,0 +1,6 @@
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "WP"]
+	path = WP
+	url = https://github.com/WordPress/WordPress.git
